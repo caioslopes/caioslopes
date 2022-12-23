@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio.s.lopes)
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical)
+[![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical)](https://github.com/caioslopes)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes)](https://github.com/caioslopes)
 
