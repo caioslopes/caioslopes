@@ -20,10 +20,10 @@
 ## Redes Sociais:
 
 <div style="display: inline_block"><br/>
-    <a target="_blank" href="https://www.instagram.com/caio.s.lopes">
+    <a href="https://www.instagram.com/caio.s.lopes" target="_blank">
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target="_blank" href="mailto:caiolopes.social@gmail.com">
+    <a href="mailto:caiolopes.social@gmail.com" target="_blank">
     <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div><br/>
