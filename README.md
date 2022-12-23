@@ -4,7 +4,7 @@
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes)](https://github.com/caioslopes)
 
 ## Tecnologias que eu uso no meu dia
 
