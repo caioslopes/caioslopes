@@ -1,12 +1,15 @@
-### Olá! Eu sou o Caio Lopes 👋
+### Olá! Eu sou o Caio Lopes 🖐️ 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio.s.lopes)
+- 💻 Hoje trabalho com front-end
+- 🌱 Estudando PHP
+- 😄 Pronouns: ele/dele
 
-[![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical)](https://github.com/caioslopes)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes)](https://github.com/caioslopes)
-
-## Tecnologias que tenho conhecimento
+<div>
+    <a href="https://github.com/caioslopes">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes&layout=compact&theme=radical">
+    </a>
+</div>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,9 +17,19 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br/>
 
+## Redes Sociais:
+
+<div style="display: inline_block"><br/>
+    <a target="_blank" href="https://www.instagram.com/caio.s.lopes">
+    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target="_blank" href="mailto:caiolopes.social@gmail.com">
+    <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</div><br/>
+
 ## Formação:
 
 - Curso Técnico (ETEC)
 Desenvolvimento de Sistemas - 2022
-
 
