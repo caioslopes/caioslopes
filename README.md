@@ -6,8 +6,8 @@
 
 <div>
     <a href="https://github.com/caioslopes">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes&layout=compact&theme=radical">
+        <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical">
+        <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes&layout=compact&theme=radical">
     </a>
 </div>
 
