@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Caio Lopes 🖐️ 
 
 - 💻 Hoje trabalho com front-end
-- 🌱 Estudando PHP e JS
+- 🌱 Estudando PHP
+
+## Tecnologias:
 
 <div style="display: inline_block"><br/>
     <a href="https://github.com/caioslopes">
