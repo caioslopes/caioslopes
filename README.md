@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Caio Lopes 🖐️ 
 
-- 💻 Hoje trabalho com front-end
 - 🌱 Estudando PHP
 
 ## Tecnologias:
