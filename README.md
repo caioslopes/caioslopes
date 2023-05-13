@@ -27,5 +27,8 @@
 ## Formação:
 
 - Curso Técnico (ETEC)
-Desenvolvimento de Sistemas - 2022
+Desenvolvimento de Sistemas - 2020/2022
+
+- Curso Superior (Institudo Federal de São Paulo Câmpus Araraquara)
+Sistemas para Internet - Março 2023
 
