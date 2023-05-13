@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Lopes 🖐️ 
 
-- 🌱 Estudando PHP
+- Estudando Desenvolvimento Web
 
 ## Tecnologias:
 
