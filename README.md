@@ -15,9 +15,10 @@
 
 ## Formação:
 
+- Curso Superior (Institudo Federal de São Paulo Câmpus Araraquara)
+Sistemas para Internet - Março 2023
+
 - Curso Técnico (ETEC)
 Desenvolvimento de Sistemas - 2020/2022
 
-- Curso Superior (Institudo Federal de São Paulo Câmpus Araraquara)
-Sistemas para Internet - Março 2023
 
