@@ -19,10 +19,8 @@ Tenho 19 anos, sou estudante do Instituto Federal de São Paulo.
 
 ### Estatísticas do github
 <div>
-  <a href="https://github.com/caioslopes">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes&layout=compact&langs_count=7&theme=radical&hide_progress=true&hide=php"/>
-    <img loading="laze" src="https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical">
-  </a>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes&layout=compact&langs_count=7&theme=radical&hide_progress=true&hide=php"/>
+    <img loading="laze" height="180em" src="https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical">
 </div>
 
 ### Formação:
