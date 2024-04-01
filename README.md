@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Caio S Lopes 🖐️ 
 
-Tenho 19 anos, sou estudante do Instituto Federal de São Paulo.
+Tenho 19 anos, sou estudante do Instituto Federal de São Paulo, atuo profissionalmente como desenvolvedor Front-End.
+
+- :blue_book: Sou um grande admirador da área acadêmica.
 
 ### Ferramentas e Tecnologias
 <div>
