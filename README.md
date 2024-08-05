@@ -1,10 +1,10 @@
-## Olá! Eu sou o Caio S Lopes 🖐️ 
+## Hello! I am Caio S Lopes 🖐️
 
-Tenho 19 anos, sou estudante do Instituto Federal de São Paulo, atuo profissionalmente como desenvolvedor Front-End.
+I am 19 years old, a student at the Federal Institute of São Paulo, and I work professionally as a Front-End developer.
 
-- :blue_book: Sou um grande admirador da área acadêmica.
+- :blue_book: I am a great admirer of the academic field.
 
-### Ferramentas e Tecnologias
+### Tools and Technologies
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
@@ -13,23 +13,23 @@ Tenho 19 anos, sou estudante do Instituto Federal de São Paulo, atuo profission
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
 </div>
 
-### Atualmente trabalho com
+### Currently, I work with
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
 </div>
 
-### Estatísticas do github
+### GitHub statistics
 <div>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes&layout=compact&langs_count=7&theme=radical&hide_progress=true&hide=php"/>
     <img loading="laze" height="180em" src="https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical">
 </div>
 
-### Formação:
+### Education:
 
-- Curso Superior (Institudo Federal de São Paulo Câmpus Araraquara)
-Sistemas para Internet - Março 2023
+- Technologist Degree (Federal Institute of São Paulo, Araraquara Campus)
+Internet Systems - March 2023
 
-- Curso Técnico (ETEC)
-Desenvolvimento de Sistemas - 2020/2022
+- Integrated Technical Course with High School (ETEC)
+Systems Development - 2020/2022
