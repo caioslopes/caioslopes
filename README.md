@@ -22,7 +22,7 @@ I am 19 years old, a student at the Federal Institute of São Paulo, and I work 
 
 ### GitHub statistics
 <div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes&layout=compact&langs_count=7&theme=radical&hide_progress=true&hide=php&hide=Hack&hide=CMake"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioslopes&layout=compact&langs_count=7&theme=radical&hide_progress=true&hide=php,Hack,CMake"/>
     <img loading="laze" height="180em" src="https://github-readme-stats.vercel.app/api?username=caioslopes&show_icons=true&theme=radical">
 </div>
 
