@@ -1,6 +1,6 @@
 ## Hello! I am Caio S Lopes 🖐️
 
-I am 19 years old, a student at the Federal Institute of São Paulo, and I work professionally as a Front-End developer.
+A student at the Federal Institute of São Paulo, and I work professionally as a Mobile developer.
 
 - :blue_book: I am a great admirer of the academic field.
 
